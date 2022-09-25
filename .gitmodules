@@ -1,0 +1,3 @@
+[submodule "template/printer_config"]
+	path = template/printer_config
+	url = https://github.com/SilentSpud/printer_config.git
